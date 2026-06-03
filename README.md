@@ -1,5 +1,4 @@
 # Sabore
-Recetario
 <?php
 // Recetario auto-contenido: guarda recetas dentro de este mismo archivo
 $mensaje = '';
